@@ -22,9 +22,9 @@ public class Loops {
 //EJERCICIO Write a program that prints the numbers from 1 to 100 and for multiples of ‘3’ print “Fizz” instead of the
 // number and for the multiples of ‘5’ print “Buzz”.
 
-        for (int counter = 1;counter <=100; counter++) {
-            // System.out.println("Number is " + counter);}
-
+        for (int counter = 1;counter <=5; counter++) {
+             System.out.println("CHANGE FOR GITHUB 5 TIMES");}
+        /*
             if (counter % 3 == 0) {
                 System.out.println("FIZZ");
             } else if (counter % 5 == 0) {
@@ -33,7 +33,8 @@ public class Loops {
             else {
                 System.out.println(counter);
             }
-        } //Acaba el FOR
+            */
+     //   } //Acaba el FOR
 
 
 
